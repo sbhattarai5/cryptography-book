@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Introduction to Cryptography}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}History}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Usage and Future}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Classical Ciphers}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Cipher}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Definition}{8}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Correction Criteria}{8}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Ceaser Cipher}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Substitution Cipher}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}One-time pad}{12}{section.2.4}%
+\contentsline {section}{Chapter 2\tmspace +\thickmuskip {.2777em}Exercise}{14}{section*.4}%
